@@ -14,7 +14,9 @@ a course in either natural language processing, machine learning, artificial
 intelligence, or computer vision; most concepts should be comprehensible to
 people with a solid probability and mathematics background, however.
 
-## Winter Quarter 2017 Tentative Schedule
+We're planning on meeting weekly for 1.5 - 2 hours.
+
+## Winter Quarter 2017 (Very Tentative) Schedule
 
 | Week | Date | Time | Place | Summary of Contents |
 |------|------|------|-------|-----------------------------------------------------|

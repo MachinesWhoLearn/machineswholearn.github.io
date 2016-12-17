@@ -17,5 +17,10 @@ principles behind machine learning. We'll be working through
 [All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/) together
 during the quarter.
 
-- In the [MWL Reading Group]({{ base }}/read_ml), we'll be reading about current
+- In the [MWL Reading Group]({{ base }}/mwl_reading_group), we'll be reading about current
   and past research in various topics within machine learning.
+
+- The [MWL Workshops]({{ base }}/mwl_workshops) will take participants through a
+  tour of various popular machine learning algorithms with the goal of
+  understanding how they work and implementing them from scratch to solidify
+  these principles.

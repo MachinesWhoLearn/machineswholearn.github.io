@@ -28,7 +28,9 @@ but is likely to be a much more mathematically intense approach. It's our hope
 that working through the proofs and the gritty math behind much of "basic"
 probability will enhance the intuitions you have about the subject.
 
-## Winter Quarter 2017 Tentative Schedule
+We're planning on meeting weekly for 1 - 1.5 hours.
+
+## Winter Quarter 2017 (Tentative) Schedule
 
 | Week | Date | Time | Place | Summary of Contents |
 |------|------|------|-------|-----------------------------------------------------|
