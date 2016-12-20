@@ -4,13 +4,13 @@ title: Manifesto
 ---
 
 # Table of Contents
-1. [Example](#prerequisites)
-2. [Example2](#good-use-of-your-time)
-3. [Third Example](#compile-a-reference)
+1. [On Prerequisites](#on-prerequisites)
+2. [Good Use of Your Time](#good-use-of-your-time)
+3. [Compile a Reference](#compile-a-reference)
 4. [Feedback Early; Fail Fast](#feedback-early-fail-fast)
 5. [Safe Space for Extremely Dumb Questions](#safe-space-for-extremely-dumb-questions)
 
-## Prerequisites
+## On Prerequisites
 
 
 Machine learning / AI / data science requires a certain prerequisite skill set
