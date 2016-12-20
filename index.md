@@ -7,8 +7,8 @@ title: Welcome
 
 Machines Who Learn is a student-led, for-students interest group for all things
 machine learning, artificial intelligence, or data science related. Our goal is
-to support a tight-knit community of students interested in the aforementioned
-topics by forum for them to gather and share their interest together.
+to support a tight-knit community of students interested in data by providing
+them with a space to come together.
 
 To this end, we're running 3 subgroups during Winter Quarter 2017, each focused
 on a different facet of machine learning, AI, or data science.
@@ -26,3 +26,8 @@ during the quarter.
   tour of various popular machine learning algorithms with the goal of
   understanding how they work and implementing them from scratch to solidify
   these principles.
+
+If you're interested in joining us, feel free to come to any of our events
+above, or join our [mailing list](https://groups.google.com/forum/#!forum/machines-who-learn/join) or
+[Facebook group](https://www.facebook.com/groups/MachinesWhoLearn) to stay up to
+date with what we're up to.
