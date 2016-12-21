@@ -9,12 +9,14 @@ there will be one or two people assigned to lead a "discussion" about the
 readings, and we will talk about things that we found interesting or did not
 quite understand in the papers.
 
+**We're planning on meeting weekly for 1.5 - 2 hours.**
+
+## Suggested Prerequisites
+
 In order to get a lot out of this, participants probably will want to have taken
 a course in either natural language processing, machine learning, artificial
 intelligence, or computer vision; most concepts should be comprehensible to
 people with a solid probability and mathematics background, however.
-
-We're planning on meeting weekly for 1.5 - 2 hours.
 
 ## Winter Quarter 2017 (Very Tentative) Schedule
 

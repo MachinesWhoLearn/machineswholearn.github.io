@@ -12,6 +12,8 @@ discussion about how the method works under the hood through a mixture of theory
 and intuition. The second week, we'll be working together and coding up the
 algorithm from scratch to solve a given problem.
 
+## Suggested Prerequisites
+
 We expect participants to be able to program in Python. While UW's introductory
 programming courses often do not use the language, it's quite popular for data
 science / machine learning and is worth picking up. There are plenty of great
@@ -21,7 +23,7 @@ time on that in our sessions; check out the
 for some more info. We also expect participants to have knowledge of basic
 concepts in probability.
 
-We're planning on meeting weekly for one hour.
+**We're planning on meeting weekly for one hour.**
 
 ## Winter Quarter 2017 (Tentative) Schedule
 

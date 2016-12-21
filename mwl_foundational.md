@@ -6,7 +6,7 @@ title: MWL Foundational
 The goal of this group is to gain a deeper understand some of the core
 mathematics and statistics behind machine learning. To this end, we'll be
 working through Larry Wasserman's
-[All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/).
+[*All of Statistics*](http://www.stat.cmu.edu/~larry/all-of-statistics/).
 
 We'll plan to spend two weeks on each chapter. The first week, participants will
 be expected to have read the chapter and have made a sincere attempt at
@@ -18,17 +18,18 @@ CMU's
 [36-705 (Intermediate Statistics)](http://www.stat.cmu.edu/~larry/=stat705/),
 which is a course that heavily uses the book.
 
-We expect participants to have a strong understanding of calculus (so up to MATH
-126); prior experience with probability and statistics helps, but is not
-necessary. All of Statistics is a pretty mathematically rigorous text, and
-approaches probability and proofs of the concepts through calculus.
-
 Chapters 1-5 cover a little bit more than the material in a class like CSE 312,
 but is likely to be a much more mathematically intense approach. It's our hope
 that working through the proofs and the gritty math behind much of "basic"
 probability will enhance the intuitions you have about the subject.
 
-We're planning on meeting weekly for 1 - 1.5 hours.
+**We're planning on meeting weekly for 1 - 1.5 hours.**
+
+## Suggested Prerequisites
+We expect participants to have a strong understanding of calculus (so up to MATH
+126); prior experience with probability and statistics helps, but is not
+necessary. *All of Statistics* is a pretty mathematically rigorous text, and
+approaches probability and proofs of the concepts through calculus.
 
 ## Winter Quarter 2017 (Tentative) Schedule
 
