@@ -32,6 +32,8 @@ during the quarter. If you're interested, indicate your availability
   [here](http://www.when2meet.com/?5933344-NiEP3).
 
 If you're interested in joining us, feel free to come to any of our events
-above, or join our [mailing list](https://groups.google.com/forum/#!forum/machines-who-learn/join) or
+above and join our [mailing list](https://groups.google.com/forum/#!forum/machines-who-learn/join) or
 [Facebook group](https://www.facebook.com/groups/MachinesWhoLearn) to stay up to
 date with what we're up to.
+
+We're on GitHub at [github.com/MachinesWhoLearn](https://github.com/MachinesWhoLearn).
