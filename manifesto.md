@@ -14,7 +14,7 @@ title: Manifesto
 
 
 Machine learning / AI / data science requires a certain prerequisite skill set
-to get started. We think it's beyond that scope of the group to do things like
+to get started. We think it's beyond the scope of the group to do things like
 teach everyone Python or calculus --- there are plenty of great online resources
 that do it better than we could, and it probably isn't the best use of our time
 together. That being said, we'd be happy to advise on how to get started and put
@@ -24,8 +24,8 @@ if that's something that is suggested.
 ## Good Use of Your Time
 
 Covering a lot of material naturally takes a considerable amount of time. We
-want this to be a good use of your time, because we think that everyone deserves
-to feel this way. Here some strategies for this:
+want everyone involved to feel like Machines Who Learn is a good use of time.
+Here some strategies for this:
 
 You *must* do background reading (for things like MWL Foundational and Reading
 Group) beforehand. This is essential for keeping sessions productive. If you
@@ -40,6 +40,10 @@ this, though if anyone has a strong interest, we can alternate. Obviously no one
 is forbidden from taking notes, but the way it's done in class is a waste of
 time: everyone copying everything down takes the collective focus off of what’s
 going on.
+
+There could be a lot to read or do from week to week, and it may be tough to
+keep up at times. However, we truly believe that there's a lot to be gained if
+you put in the time and effort --- you get out what you put in.
 
 ## Compile a Reference
 
