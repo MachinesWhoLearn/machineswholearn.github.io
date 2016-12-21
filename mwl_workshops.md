@@ -23,7 +23,8 @@ time on that in our sessions; check out the
 for some more info. We also expect participants to have knowledge of basic
 concepts in probability.
 
-**We're planning on meeting weekly for one hour.**
+**We're planning on meeting weekly for one hour. If you're interested, indicate
+  your availability [here](http://www.when2meet.com/?5933344-NiEP3).**
 
 ## Winter Quarter 2017 (Tentative) Schedule
 

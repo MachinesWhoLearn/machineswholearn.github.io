@@ -23,7 +23,8 @@ but is likely to be a much more mathematically intense approach. It's our hope
 that working through the proofs and the gritty math behind much of "basic"
 probability will enhance the intuitions you have about the subject.
 
-**We're planning on meeting weekly for 1 - 1.5 hours.**
+**We're planning on meeting weekly for 1 - 1.5 hours. If you're interested,
+indicate your availability [here](http://when2meet.com/?5933343-yXAqa)**
 
 ## Suggested Prerequisites
 We expect participants to have a strong understanding of calculus (so up to MATH

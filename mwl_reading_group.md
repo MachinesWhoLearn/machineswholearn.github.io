@@ -9,7 +9,8 @@ there will be one or two people assigned to lead a "discussion" about the
 readings, and we will talk about things that we found interesting or did not
 quite understand in the papers.
 
-**We're planning on meeting weekly for 1.5 - 2 hours.**
+**We're planning on meeting weekly for 1.5 - 2 hours. If you're interested,
+  indicate your availability [here](http://www.when2meet.com/?5933347-woiWe).**
 
 ## Suggested Prerequisites
 
