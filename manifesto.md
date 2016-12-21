@@ -5,13 +5,14 @@ title: Manifesto
 
 # Table of Contents
 1. [On Prerequisites](#on-prerequisites)
-2. [Good Use of Your Time](#good-use-of-your-time)
-3. [Compile a Reference](#compile-a-reference)
-4. [Feedback Early; Fail Fast](#feedback-early-fail-fast)
-5. [Safe Space for Extremely Dumb Questions](#safe-space-for-extremely-dumb-questions)
+2. [On Software and Libraries](#on-software-and-libraries)
+3. [On Learning and Understanding](#on-learning-and-understanding)
+4. [Good Use of Your Time](#good-use-of-your-time)
+5. [Compile a Reference](#compile-a-reference)
+6. [Feedback Early; Fail Fast](#feedback-early-fail-fast)
+7. [Safe Space for Extremely Dumb Questions](#safe-space-for-extremely-dumb-questions)
 
 ## On Prerequisites
-
 
 Machine learning / AI / data science requires a certain prerequisite skill set
 to get started. We think it's beyond the scope of the group to do things like
@@ -20,6 +21,36 @@ that do it better than we could, and it probably isn't the best use of our time
 together. That being said, we'd be happy to advise on how to get started and put
 together study groups for people interested in learning prerequisites together
 if that's something that is suggested.
+
+## On Software and Libraries
+
+It might be odd that we aren't teaching how to use libraries like scikit-learn,
+tensorflow / torch / theano, or keras. This is intentional - we believe that
+learning libraries is an area that already has a lot of tutorials / resources;
+it's thus not in our best interests to reduplicate the effort. Learning software
+packages should be done after having an understanding of how the methods work,
+and will indeed be much easier after doing so.
+
+That's not to say we aren't against applying your knowledge --- that's
+definitely something that's very important in furthering your understanding, and
+lots of data science is practice. We just believe that the knowledge of how the
+code works is far more important and valuable; anyone can initialize a
+classifier in scikit-learn and train it, but few people have the knowledge to
+rationalize its decisions and use their knowledge of how it works to improve
+performance.
+
+## On Learning and Understanding
+
+We want participants to gain a deep understanding of the things we cover. To quote [Andrej Karpathy's advice for undergraduates]():
+
+> Reading and understanding IS NOT the same as replicating the content. Even I
+> often make this mistake still: You read a formula/derivation/proof in the book
+> and it makes perfect sense. Now close the book and try to write it down. You
+> will find that this process is completely different and it will amaze you that
+> many times you won't actually be able to do this! Somehow the two things use
+> different parts of the memory. Make it a point to make sure that you can
+> actually write down the most important bits, and that you can re-derive them
+> at will.
 
 ## Good Use of Your Time
 
@@ -47,7 +78,7 @@ you put in the time and effort --- you get out what you put in.
 
 ## Compile a Reference
 
-We hope to keep running log online of core concepts we cover and good visualizations we come up with. This will be something everyone can access and print. Hopefully this will be more [a] relevant, [b] easy to understand, and [c] easy to access than flipping through textbooks.
+We hope to keep a running log online of core concepts we cover and good visualizations we come up with. This will be something everyone can access and print. Hopefully this will be more [a] relevant, [b] easy to understand, and [c] easy to access than flipping through textbooks.
 
 ## Feedback Early; Fail Fast
 
