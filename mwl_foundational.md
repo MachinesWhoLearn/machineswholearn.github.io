@@ -23,8 +23,7 @@ but is likely to be a much more mathematically intense approach. It's our hope
 that working through the proofs and the gritty math behind much of "basic"
 probability will enhance the intuitions you have about the subject.
 
-**We're planning on meeting weekly for 1 - 1.5 hours. If you're interested,
-indicate your availability [here](http://when2meet.com/?5933343-yXAqa)**
+**We're planning on meeting for 1-1.5 hours on Fridays at 5:30 PM in CSE 503**
 
 ## Suggested Prerequisites
 We expect participants to have a strong understanding of calculus (so up to MATH
@@ -36,16 +35,16 @@ approaches probability and proofs of the concepts through calculus.
 
 | Week | Date | Time | Place | Summary of Contents |
 |------|------|------|-------|-----------------------------------------------------|
-| 1 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 1 |
-| 2 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 1 Problem Set |
-| 3 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 2 |
-| 4 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 2 Problem Set|
-| 5 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 3 |
-| 6 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 3 Problem Set|
-| 7 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 4 |
-| 8 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 4 Problem Set |
-| 9 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 5 |
-| 10 | TBD | TBD | TBD | Discussion: All of Statistics Ch. 5 Problem Set |
+| 1 | Jan 6 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 1 |
+| 2 | Jan 13 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 1 Problem Set |
+| 3 | Jan 20 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 2 |
+| 4 | Jan 27 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 2 Problem Set|
+| 5 | Feb 3 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 3 |
+| 6 | Feb 10 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 3 Problem Set|
+| 7 | Feb 17 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 4 |
+| 8 | Feb 24 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 4 Problem Set |
+| 9 | Mar 3 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 5 |
+| 10 | Mar 10 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 5 Problem Set |
 
 ## Resources
 

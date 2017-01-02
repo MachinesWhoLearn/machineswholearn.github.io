@@ -9,8 +9,7 @@ there will be one or two people assigned to lead a "discussion" about the
 readings, and we will talk about things that we found interesting or did not
 quite understand in the papers.
 
-**We're planning on meeting weekly for 1.5 - 2 hours. If you're interested,
-  indicate your availability [here](http://www.when2meet.com/?5933347-woiWe).**
+**We're planning on meeting for 1.5-2 hours on Tuesdays at 6:30 PM in CSE 503**
 
 ## Suggested Prerequisites
 
@@ -23,16 +22,16 @@ people with a solid probability and mathematics background, however.
 
 | Week | Date | Time | Place | Summary of Contents |
 |------|------|------|-------|-----------------------------------------------------|
-| 1 | TBD | TBD | TBD | [a-z]* and how to search<br>Search in machine learning |
-| 2 | TBD | TBD | TBD | 80's Deep Learning |
-| 3 | TBD | TBD | TBD | Deep Neural Nets as Data Structures |
-| 4 | TBD | TBD | TBD | Optimization |
-| 5 | TBD | TBD | TBD | Attention / Memory |
-| 6 | TBD | TBD | TBD | Very Distant Supervision |
-| 7 | TBD | TBD | TBD | Graphical Models |
-| 8 | TBD | TBD | TBD | Variational Inference |
-| 9 | TBD | TBD | TBD | Structured Prediction |
-| 10 | TBD | TBD | TBD | Structured Prediction |
+| 1 | Jan 3 | 6:30 PM | CSE 503 | [a-z]* and how to search<br>Search in machine learning |
+| 2 | Jan 10 | 6:30 PM | CSE 503 | 80's Deep Learning |
+| 3 | Jan 17 | 6:30 PM | CSE 503 | Deep Neural Nets as Data Structures |
+| 4 | Jan 24 | 6:30 PM | CSE 503 | Optimization |
+| 5 | Jan 31 | 6:30 PM | CSE 503 | Attention / Memory |
+| 6 | Feb 7 | 6:30 PM | CSE 503 | Very Distant Supervision |
+| 7 | Feb 14 | 6:30 PM | CSE 503 | Graphical Models |
+| 8 | Feb 21 | 6:30 PM | CSE 503 | Variational Inference |
+| 9 | Feb 28 | 6:30 PM | CSE 503 | Structured Prediction |
+| 10 | Mar 7 | 6:30 PM | CSE 503 | Structured Prediction |
 
 ## What We're Reading
 

@@ -23,23 +23,23 @@ time on that in our sessions; check out the
 for some more info. We also expect participants to have knowledge of basic
 concepts in probability.
 
-**We're planning on meeting weekly for one hour. If you're interested, indicate
-  your availability [here](http://www.when2meet.com/?5933344-NiEP3).**
+**We're planning on meeting for an hour on Fridays at 4:00 PM in Allen Research
+Commons Red C.**
 
 ## Winter Quarter 2017 (Tentative) Schedule
 
 | Week | Date | Time | Place | Summary of Contents |
 |------|------|------|-------|-----------------------------------------------------|
-| 1 | TBD | TBD | TBD | Discussion: How does logistic regression work? |
-| 2 | TBD | TBD | TBD | Implementing logistic regression |
-| 3 | TBD | TBD | TBD | Discussion: How do SVMs / kernel methods work? |
-| 4 | TBD | TBD | TBD | Implementing SVMs |
-| 5 | TBD | TBD | TBD | Discussion: How do decision trees work? |
-| 6 | TBD | TBD | TBD | Implementing decision trees |
-| 7 | TBD | TBD | TBD | Discussion: How do random forests work?<br> What's the deal with bagging, boosting, and ensembles? |
-| 8 | TBD | TBD | TBD | Implementing random forests |
-| 9 | TBD | TBD | TBD | Discussion: How do neural network work? |
-| 10 | TBD | TBD | TBD | Implementing neural networks |
+| 1 | Jan 6 | 4:00 PM | Allen Research Commmons<br> Red C | Discussion: How does logistic regression work? |
+| 2 | Jan 13 | 4:00 PM | Allen Research Commmons<br> Red C | Implementing logistic regression |
+| 3 | Jan 20 | 4:00 PM | Allen Research Commmons<br> Red C | Discussion: How do SVMs / kernel methods work? |
+| 4 | Jan 27 | 4:00 PM | Allen Research Commmons<br> Red C | Implementing SVMs |
+| 5 | Feb 3 | 4:00 PM | Allen Research Commmons<br> Red C | Discussion: How do decision trees work? |
+| 6 | Feb 10 | 4:00 PM | Allen Research Commmons<br> Red C | Implementing decision trees |
+| 7 | Feb 17 | 4:00 PM | Allen Research Commmons<br> Red C | Discussion: How do random forests work?<br> What's the deal with bagging, boosting, and ensembles? |
+| 8 | Feb 24 | 4:00 PM | Allen Research Commmons<br> Red C | Implementing random forests |
+| 9 | Mar 3 | 4:00 PM | Allen Research Commmons<br> Red C | Discussion: How do neural network work? |
+| 10 | Mar 10 | 4:00 PM | Allen Research Commmons<br> Red C | Implementing neural networks |
 
 ## Resources
 
