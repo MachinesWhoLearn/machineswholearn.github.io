@@ -35,8 +35,12 @@ people with a solid probability and mathematics background, however.
 
 ## What We're Reading
 
-Paper selections to come soon!
-
+- January 3rd: Search
+  - [P. E. Hart, N. J. Nilsson and B. Raphael, "A Formal Basis for the Heuristic Determination of Minimum Cost Paths"](http://ai.stanford.edu/~nilsson/OnlinePubs-Nils/PublishedPapers/astar.pdf)
+  - [S. Koenig and M. Likhachev, "Fast replanning for navigation in unknown terrain"](https://pdfs.semanticscholar.org/e782/3d7c5fdf7145e241fc70b13958815231eee8.pdf)
+  - [M. Likhachev and A. Stentz, "R* Search"](https://pdfs.semanticscholar.org/8807/f78517dbe60acb44434bfd901ce14b24b01b.pdf)
+  - [Ferguson, Dave and Anthony Stentz. "Anytime RRTs."](https://pdfs.semanticscholar.org/0978/cf6a89df6b6146c93550621d39f95c838175.pdf)
+  
 ## Resources
 
 Resources to come soon!
