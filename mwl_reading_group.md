@@ -35,11 +35,25 @@ people with a solid probability and mathematics background, however.
 
 ## What We're Reading
 
-- January 3rd: Search
+### January 3rd: Search
   - [P. E. Hart, N. J. Nilsson and B. Raphael, "A Formal Basis for the Heuristic Determination of Minimum Cost Paths"](http://ai.stanford.edu/~nilsson/OnlinePubs-Nils/PublishedPapers/astar.pdf)
   - [S. Koenig and M. Likhachev, "Fast replanning for navigation in unknown terrain"](https://pdfs.semanticscholar.org/e782/3d7c5fdf7145e241fc70b13958815231eee8.pdf)
   - [M. Likhachev and A. Stentz, "R* Search"](https://pdfs.semanticscholar.org/8807/f78517dbe60acb44434bfd901ce14b24b01b.pdf)
   - [Ferguson, Dave and Anthony Stentz. "Anytime RRTs."](https://pdfs.semanticscholar.org/0978/cf6a89df6b6146c93550621d39f95c838175.pdf)
+  
+### January 10th: 80's Deep Learning (or: Deep Learning Then and Now)
+  - [Hochreiter, Sepp and Jürgen Schmidhuber. "Long Short-Term Memory"](https://pdfs.semanticscholar.org/744d/cb85b8a36a7cf6b382ba100965de717ebe91.pdf)
+    - The original LSTM paper, pretty long so maybe read the first 11 pages?
+    - [This blog post (by Christopher Olah)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) is great for understanding how recurrent neural nets (RNNs) and LSTMs work, would highly recommend reading!
+  - [Cho, Kyunghyun et al. "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation"](https://pdfs.semanticscholar.org/e2ce/a79e832e0fe999efba16fd621f84cd322371.pdf)
+    - Introduces a modern variant of the LSTM called the Gated Recurrent Unit (GRU)
+  - [Lecun, Yann et al. "Gradient-based Learning Applied to Document Recognition."](https://pdfs.semanticscholar.org/d1cf/aea6c9b1d42aa823137bb33cea3d01c6536e.pdf)
+    - Paper that introduced convolutional neural networks, pretty long so read maybe the first 12-15 pages.
+    - Nice blog post [here (by Andrej Karpathy)](http://karpathy.github.io/2015/10/25/selfie/).
+  - [Krizhevsky, Alex et al. "ImageNet Classification with Deep Convolutional Neural Networks."](https://pdfs.semanticscholar.org/2315/fc6c2c0c4abd2443e26a26e7bb86df8e24cc.pdf)
+    - Seminal paper on classifying images with deep learning, one of the first papers that really got researchers interested in deep learning again.
+  - [extra credit paper if you're interested: Józefowicz, Rafal et al. "An Empirical Exploration of Recurrent Network Architectures."](https://pdfs.semanticscholar.org/324f/c9c732116fa81624faad07524039f193cede.pdf)
+
   
 ## Resources
 
