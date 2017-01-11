@@ -24,7 +24,7 @@ people with a solid probability and mathematics background, however.
 |------|------|------|-------|-----------------------------------------------------|
 | 1 | Jan 3 | 6:30 PM | CSE 503 | [[a-z]* and how to search<br>Search in machine learning](#january-3rd-search) |
 | 2 | Jan 10 | 6:30 PM | CSE 503 | [80's Deep Learning](#january-10th-80s-deep-learning-or-deep-learning-then-and-now) |
-| 3 | Jan 17 | 6:30 PM | CSE 503 | Deep Neural Nets as Data Structures |
+| 3 | Jan 17 | 6:30 PM | CSE 503 | [Deep Neural Nets as Data Structures](#january-17th-dnns-as-data-structures) |
 | 4 | Jan 24 | 6:30 PM | CSE 503 | Optimization |
 | 5 | Jan 31 | 6:30 PM | CSE 503 | Attention / Memory |
 | 6 | Feb 7 | 6:30 PM | CSE 503 | Very Distant Supervision |
@@ -62,8 +62,13 @@ people with a solid probability and mathematics background, however.
       to be the paper that kickstarted the modern deep learning era
   - [extra credit paper if you're interested: Józefowicz, Rafal et al. "An Empirical Exploration of Recurrent Network Architectures."](https://pdfs.semanticscholar.org/324f/c9c732116fa81624faad07524039f193cede.pdf)
   - [Entertaining (?) article about Jürgen Schmidhuber's thoughts on his lack of recognition in modern deep learning, with commentary by Yann LeCun and others.](http://www.nytimes.com/2016/11/27/technology/artificial-intelligence-pioneer-jurgen-schmidhuber-overlooked.html)
-
   
+### January 17th: DNNs as Data Structures
+  - [Dyer, Chris et al. “Transition-Based Dependency Parsing with Stack Long Short-Term Memory.” ACL (2015).](https://pdfs.semanticscholar.org/aa8d/3cb91d00aa7e981d9686e07c99505aba4fd8.pdf)
+    - "StackLSTM", might require some knowledge of how shift-reduce parsing works.
+  - [Tai, Kai Sheng et al. “Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.” ACL (2015).](https://pdfs.semanticscholar.org/b251/b79996e475d22dd7081387c435e67e087043.pdf)
+    - "TreeLSTM"
+
 ## Resources
 
 Resources to come soon!
