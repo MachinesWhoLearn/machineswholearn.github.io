@@ -50,6 +50,7 @@ might take more than a week to fully digest.**
 | 10 | Mar 10 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 5 Problem Set |
 
 ## Problem Sets
+
 ### January 13
   - *All of Statistics* Chapter 1 Problems 3, 8, 13
 
