@@ -24,7 +24,7 @@ people with a solid probability and mathematics background, however.
 |------|------|------|-------|-----------------------------------------------------|
 | 1 | Jan 3 | 6:30 PM | CSE 503 | [[a-z]* and how to search<br>Search in machine learning](#january-3rd-search) |
 | 2 | Jan 10 | 6:30 PM | CSE 503 | [80's Deep Learning](#january-10th-80s-deep-learning-or-deep-learning-then-and-now) |
-| 3 | Jan 17 | 6:30 PM | CSE 503 | [Deep Neural Nets as Data Structures](#january-17th-dnns-as-data-structures) |
+| 3 | Jan 17 | 6:30 PM | CSE 303 | [Deep Neural Nets as Data Structures](#january-17th-dnns-as-data-structures) |
 | 4 | Jan 24 | 6:30 PM | CSE 503 | Optimization |
 | 5 | Jan 31 | 6:30 PM | CSE 503 | Attention / Memory |
 | 6 | Feb 7 | 6:30 PM | CSE 503 | Very Distant Supervision |
