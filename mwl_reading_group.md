@@ -26,8 +26,8 @@ people with a solid probability and mathematics background, however.
 | 2 | Jan 10 | 6:30 PM | CSE 503 | [80's Deep Learning](#january-10th-80s-deep-learning-or-deep-learning-then-and-now) |
 | 3 | Jan 17 | 6:30 PM | CSE 303 | [Deep Neural Nets as Data Structures](#january-17th-dnns-as-data-structures) |
 | 4 | **Jan 25** | 6:30 PM | CSE 303 | [Deep Computer Vision Tricks](#january-25th-deep-computer-vision-tricks) |
-| 5 | Jan 31 | 6:30 PM | CSE 303 | Attention / Memory |
-| 6 | Feb 7 | 6:30 PM | CSE 303 | Very Distant Supervision |
+| 5 | Jan 31 | 6:30 PM | CSE 503 | [Distant Supervision](#january-31st-distant-supervision) |
+| 6 | Feb 7 | 6:30 PM | CSE 303 | Attention / Memory |
 | 7 | Feb 14 | 6:30 PM | CSE 303 | Graphical Models |
 | 8 | Feb 21 | 6:30 PM | CSE 303 | Variational Inference |
 | 9 | Feb 28 | 6:30 PM | CSE 303 | Structured Prediction |
@@ -74,6 +74,10 @@ people with a solid probability and mathematics background, however.
     - "ResNets"
   - [Ioffe, Sergey and Christian Szegedy. "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://pdfs.semanticscholar.org/298e/77753a499c28a2220dc5924f55f8a6468be5.pdf)
   - [Bonus (very) cool paper: Zoph, Barret and Quoc V. Le. "Neural Architecture Search with Reinforcement Learning."](https://www.semanticscholar.org/paper/Neural-Architecture-Search-with-Reinforcement-Zoph-Le/cc75a5324180677866c19d0429ae3f8f5a568ed6)
+  
+### January 31st: Distant Supervision
+  - [Owens, Andrew et al. "Ambient Sound Provides Supervision for Visual Learning"](https://arxiv.org/pdf/1608.07017v2.pdf)
+  - [Iyyer et al. "Feuding Families and Former Friends: Unsupervised Learning for Dynamic Fictional Relationships."](https://cs.umd.edu/~miyyer/pubs/2016_naacl_relationships.pdf)
 
 ## Resources
 

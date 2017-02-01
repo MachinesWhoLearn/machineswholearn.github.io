@@ -42,7 +42,7 @@ might take more than a week to fully digest.**
 | 2 | Jan 13 | 5:30 PM | CSE 503 | [Discussion: All of Statistics Ch. 1 Problem Set](#january-13) |
 | 3 | Jan 20 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 2 (Part 1)|
 | 4 | Jan 27 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 2 (Part 2)|
-| 5 | Feb 3 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 2 Problems |
+| 5 | Feb 3 | 5:30 PM | CSE 503 | [Discussion: All of Statistics Ch. 2 Problem Set](#february-3) |
 | 6 | Feb 10 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 3 |
 | 7 | Feb 17 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 3 Problems |
 | 8 | Feb 24 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 4 |
@@ -53,6 +53,9 @@ might take more than a week to fully digest.**
 
 ### January 13
   - *All of Statistics* Chapter 1 Problems 3, 8, 13
+
+### January 13
+  - *All of Statistics* Chapter 2 Problems 1, 4, 7, 20
 
 ## Resources
 
