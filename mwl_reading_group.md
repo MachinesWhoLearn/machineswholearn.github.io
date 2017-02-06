@@ -27,7 +27,7 @@ people with a solid probability and mathematics background, however.
 | 3 | Jan 17 | 6:30 PM | CSE 303 | [Deep Neural Nets as Data Structures](#january-17th-dnns-as-data-structures) |
 | 4 | **Jan 25** | 6:30 PM | CSE 303 | [Deep Computer Vision Tricks](#january-25th-deep-computer-vision-tricks) |
 | 5 | Jan 31 | 6:30 PM | CSE 503 | [Distant Supervision](#january-31st-distant-supervision) |
-| 6 | Feb 7 | 6:30 PM | CSE 303 | Attention / Memory |
+| 6 | Feb 7 | 6:30 PM | CSE 303 | [Grab Bag](#february-7th-grab-bag) |
 | 7 | Feb 14 | 6:30 PM | CSE 303 | Graphical Models |
 | 8 | Feb 21 | 6:30 PM | CSE 303 | Variational Inference |
 | 9 | Feb 28 | 6:30 PM | CSE 303 | Structured Prediction |
@@ -78,6 +78,10 @@ people with a solid probability and mathematics background, however.
 ### January 31st: Distant Supervision
   - [Owens, Andrew et al. "Ambient Sound Provides Supervision for Visual Learning"](https://arxiv.org/pdf/1608.07017v2.pdf)
   - [Iyyer et al. "Feuding Families and Former Friends: Unsupervised Learning for Dynamic Fictional Relationships."](https://cs.umd.edu/~miyyer/pubs/2016_naacl_relationships.pdf)
+
+### February 7th: Grab Bag
+  - [Zhang et al, "Understanding deep learning requires rethinking generalization"](https://arxiv.org/pdf/1611.03530v1.pdf)
+  - [Blei and Lafferty, "Dynamic Topic Models"](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2036&context=compsci)
 
 ## Resources
 
