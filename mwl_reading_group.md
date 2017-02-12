@@ -28,7 +28,7 @@ people with a solid probability and mathematics background, however.
 | 4 | **Jan 25** | 6:30 PM | CSE 303 | [Deep Computer Vision Tricks](#january-25th-deep-computer-vision-tricks) |
 | 5 | Jan 31 | 6:30 PM | CSE 503 | [Distant Supervision](#january-31st-distant-supervision) |
 | 6 | Feb 7 | 6:30 PM | CSE 303 | [Grab Bag](#february-7th-grab-bag) |
-| 7 | Feb 14 | 6:30 PM | CSE 303 | Graphical Models |
+| 7 | Feb 14 | 6:30 PM | CSE 303 | Skipped |
 | 8 | Feb 21 | 6:30 PM | CSE 303 | Variational Inference |
 | 9 | Feb 28 | 6:30 PM | CSE 303 | Structured Prediction |
 | 10 | Mar 7 | 6:30 PM | CSE 303 | Structured Prediction |
