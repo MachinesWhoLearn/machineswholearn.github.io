@@ -29,7 +29,7 @@ people with a solid probability and mathematics background, however.
 | 5 | Jan 31 | 6:30 PM | CSE 503 | [Distant Supervision](#january-31st-distant-supervision) |
 | 6 | Feb 7 | 6:30 PM | CSE 303 | [Grab Bag](#february-7th-grab-bag) |
 | 7 | Feb 14 | 6:30 PM | CSE 303 | Skipped |
-| 8 | Feb 21 | 6:30 PM | CSE 303 | Variational Inference |
+| 8 | Feb 21 | 6:30 PM | CSE 303 | [Natural Language Generation](#Feburary-21st-natural-language-generation) |
 | 9 | Feb 28 | 6:30 PM | CSE 303 | Structured Prediction |
 | 10 | Mar 7 | 6:30 PM | CSE 303 | Structured Prediction |
 
@@ -82,6 +82,10 @@ people with a solid probability and mathematics background, however.
 ### February 7th: Grab Bag
   - [Zhang et al, "Understanding deep learning requires rethinking generalization"](https://arxiv.org/pdf/1611.03530v1.pdf)
   - [Blei and Lafferty, "Dynamic Topic Models"](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2036&context=compsci)
+
+### February 21st: Natural Language Generation
+  - [Kiddon, Chloé et al. "Mise en Place: Unsupervised Interpretation of Instructional Recipes."](https://pdfs.semanticscholar.org/9b50/f93252d9e16f83e0accd91b7157bb7f59210.pdf)
+  - [Fang, Hao et al. "From Captions to Visual Concepts and Back."](https://pdfs.semanticscholar.org/15f1/02c3c9f4d4fe6ba105e221df48c6e8902b3b.pdf)
 
 ## Resources
 
