@@ -29,8 +29,8 @@ people with a solid probability and mathematics background, however.
 | 5 | Jan 31 | 6:30 PM | CSE 503 | [Distant Supervision](#january-31st-distant-supervision) |
 | 6 | Feb 7 | 6:30 PM | CSE 303 | [Grab Bag](#february-7th-grab-bag) |
 | 7 | Feb 14 | 6:30 PM | CSE 303 | Skipped |
-| 8 | Feb 21 | 6:30 PM | CSE 303 | [Natural Language Generation](#Feburary-21st-natural-language-generation) |
-| 9 | Feb 28 | 6:30 PM | CSE 303 | Structured Prediction |
+| 8 | Feb 21 | 6:30 PM | CSE 303 | [Natural Language Generation](#February-21st-natural-language-generation) |
+| 9 | Feb 28 | 6:30 PM | CSE 303 | [Adversarial Training / GANs](#February-28th-adversarial-training-gans) |
 | 10 | Mar 7 | 6:30 PM | CSE 303 | Structured Prediction |
 
 ## What We're Reading
@@ -86,6 +86,10 @@ people with a solid probability and mathematics background, however.
 ### February 21st: Natural Language Generation
   - [Kiddon, Chloé et al. "Mise en Place: Unsupervised Interpretation of Instructional Recipes."](https://pdfs.semanticscholar.org/9b50/f93252d9e16f83e0accd91b7157bb7f59210.pdf)
   - [Fang, Hao et al. "From Captions to Visual Concepts and Back."](https://pdfs.semanticscholar.org/15f1/02c3c9f4d4fe6ba105e221df48c6e8902b3b.pdf)
+
+### February 28th: Adversarial Training / GANs
+  - [Yang, Zhilin et al. "Semi-Supervised QA with Generative Domain-Adaptive Nets."](https://www.semanticscholar.org/paper/Semi-Supervised-QA-with-Generative-Domain-Adaptive-Yang-Hu/4b43edc2eddf1928c8661d9c437b13dfc7fdfdbb)
+  - [Arjovsky, Martín et al. "Wasserstein GAN."](https://www.semanticscholar.org/paper/Wasserstein-GAN-Arjovsky-Chintala/51616663767d2a28fa02c439d0c9dc9e51ec6acf)
 
 ## Resources
 
