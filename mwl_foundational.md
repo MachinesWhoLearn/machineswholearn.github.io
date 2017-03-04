@@ -47,7 +47,7 @@ might take more than a week to fully digest.**
 | 7 | Feb 17 | 5:30 PM | CSE 503 | [Discussion: All of Statistics Ch. 3 Problem Set](#february-17) |
 | 8 | Feb 24 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 4 |
 | 9 | Mar 3 | 5:30 PM | CSE 503 | [Discussion: All of Statistics Ch. 4 Problem Set](#march-3) |
-| 10 | Mar 10 | 5:30 PM | CSE 503 | Discussion: All of Statistics Ch. 5 |
+| 10 | Mar 10 | 5:30 PM | CSE 503 | Skipped, Dead Week |
 
 ## Problem Sets
 
