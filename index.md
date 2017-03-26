@@ -16,19 +16,17 @@ on a different facet of machine learning, AI, or data science.
 - [MWL Foundational]({{ base }}/mwl_foundational) will focus on gleaning a
   deeper understanding of the core mathematical and statistical principles behind
   machine learning. We'll be working through
-  [All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/) together
-  during the quarter. We'll be meeting for 1-1.5 hours on Fridays at 5:30 PM in
-  CSE 503.
+  [Linear Algebra Done Right](http://linear.axler.net/) together
+  during the quarter. We'll be meeting on Tuesdays at 5:30 PM.
 
 - In the [MWL Reading Group]({{ base }}/mwl_reading_group), we'll be reading
   about current and past research in various topics within machine learning.
-  We'll be meeting for 1.5-2 hours on Tuesdays at 6:30 PM in CSE 503.
+  We'll be meeting on Thursdays at 5:30 PM.
 
 - The [MWL Workshops]({{ base }}/mwl_workshops) will take participants through a
   tour of various popular machine learning algorithms with the goal of
   understanding how they work and implementing them from scratch to solidify
-  these principles. We'll be meeting for an hour on Fridays at 4:00 PM in Allen
-  Research Commons Red C.
+  these principles. We'll be meeting on Mondays at 5:30 PM.
 
 If you're interested in joining us, feel free to come to any of our events
 above and join our [mailing list](https://groups.google.com/forum/#!forum/machines-who-learn/join) or
