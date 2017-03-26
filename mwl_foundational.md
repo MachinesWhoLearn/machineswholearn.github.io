@@ -29,13 +29,13 @@ you should be fine as long as you've taken calculus.
 
 | Week | Date | Time | Place | Summary of Contents |
 |------|------|------|-------|---------------------|
-| 1 | Mar 28 | 5:30 PM | CSE 503 | Skipped |
-| 2 | Apr 4 | 5:30 PM | CSE 503 | - |
-| 3 | Apr 11 | 5:30 PM | CSE 503 | - |
-| 4 | Apr 18 | 5:30 PM | CSE 503 | - |
-| 5 | Apr 25 | 5:30 PM | CSE 503 | - |
-| 6 | May 2 | 5:30 PM | CSE 503 | - |
-| 7 | May 9 | 5:30 PM | CSE 503 | - |
-| 8 | May 16 | 5:30 PM | CSE 503 | - |
-| 9 | May 23 | 5:30 PM | CSE 503 | - |
-| 10 | May 30 | 5:30 PM | CSE 503 | - |
+| 1 | Mar 28 | 5:30 PM | CSE 303 | Skipped |
+| 2 | Apr 4 | 5:30 PM | CSE 303 | - |
+| 3 | Apr 11 | 5:30 PM | CSE 303 | - |
+| 4 | Apr 18 | 5:30 PM | CSE 303 | - |
+| 5 | Apr 25 | 5:30 PM | CSE 303 | - |
+| 6 | May 2 | 5:30 PM | CSE 303 | - |
+| 7 | May 9 | 5:30 PM | CSE 303 | - |
+| 8 | May 16 | 5:30 PM | CSE 303 | - |
+| 9 | May 23 | 5:30 PM | CSE 303 | - |
+| 10 | May 30 | 5:30 PM | CSE 303 | - |
