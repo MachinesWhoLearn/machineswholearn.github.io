@@ -9,7 +9,7 @@ there will be one or two people assigned to lead a "discussion" about the
 readings, and we will talk about things that we found interesting or did not
 quite understand in the papers.
 
-**We're planning on meeting for 1.5-2 hours on Tuesdays at 6:30 PM in CSE 503**
+**We're planning on meeting for 1-1.5 hours on Thursdays at 5:30 PM in CSE 503**
 
 ## Suggested Prerequisites
 
@@ -18,83 +18,22 @@ a course in either natural language processing, machine learning, artificial
 intelligence, or computer vision; most concepts should be comprehensible to
 people with a solid probability and mathematics background, however.
 
-## Winter Quarter 2017 (Very Tentative) Schedule
+## Spring Quarter 2017 (Tentative) Schedule
 
 | Week | Date | Time | Place | Summary of Contents |
-|------|------|------|-------|-----------------------------------------------------|
-| 1 | Jan 3 | 6:30 PM | CSE 503 | [[a-z]* and how to search<br>Search in machine learning](#january-3rd-search) |
-| 2 | Jan 10 | 6:30 PM | CSE 503 | [80's Deep Learning](#january-10th-80s-deep-learning-or-deep-learning-then-and-now) |
-| 3 | Jan 17 | 6:30 PM | CSE 303 | [Deep Neural Nets as Data Structures](#january-17th-dnns-as-data-structures) |
-| 4 | **Jan 25** | 6:30 PM | CSE 303 | [Deep Computer Vision Tricks](#january-25th-deep-computer-vision-tricks) |
-| 5 | Jan 31 | 6:30 PM | CSE 503 | [Distant Supervision](#january-31st-distant-supervision) |
-| 6 | Feb 7 | 6:30 PM | CSE 303 | [Grab Bag](#february-7th-grab-bag) |
-| 7 | Feb 14 | 6:30 PM | CSE 303 | Skipped |
-| 8 | Feb 21 | 6:30 PM | CSE 303 | [Natural Language Generation](#february-21st-natural-language-generation) |
-| 9 | Feb 28 | 6:30 PM | CSE 303 | [Adversarial Training / GANs](#february-28th-adversarial-training-gans) |
-| 10 | Mar 7 | 6:30 PM | CSE 303 | Skipped, Dead Week |
+|------|------|------|-------|---------------------|
+| 1 | Mar 30 | 5:30 PM | CSE 503 | [Neural Architectures for Translation](#march_30th_neural_architecture_search_for_translation) |
+| 2 | Apr 6 | 5:30 PM | CSE 503 | - |
+| 3 | Apr 13 | 5:30 PM | CSE 503 | - |
+| 4 | Apr 20 | 5:30 PM | CSE 503 | - |
+| 5 | Apr 27 | 5:30 PM | CSE 503 | - |
+| 6 | May 4 | 5:30 PM | CSE 503 | - |
+| 7 | May 11 | 5:30 PM | CSE 503 | - |
+| 8 | May 18 | 5:30 PM | CSE 503 | - |
+| 9 | May 25 | 5:30 PM | CSE 503 | - |
+| 10 | June 1 | 5:30 PM | CSE 503 | - |
 
 ## What We're Reading
 
-### January 3rd: Search
-  - [P. E. Hart, N. J. Nilsson and B. Raphael, "A Formal Basis for the Heuristic Determination of Minimum Cost Paths"](http://ai.stanford.edu/~nilsson/OnlinePubs-Nils/PublishedPapers/astar.pdf)
-  - [S. Koenig and M. Likhachev, "Fast replanning for navigation in unknown terrain"](https://pdfs.semanticscholar.org/e782/3d7c5fdf7145e241fc70b13958815231eee8.pdf)
-  - [M. Likhachev and A. Stentz, "R* Search"](https://pdfs.semanticscholar.org/8807/f78517dbe60acb44434bfd901ce14b24b01b.pdf)
-  - [Ferguson, Dave and Anthony Stentz. "Anytime RRTs."](https://pdfs.semanticscholar.org/0978/cf6a89df6b6146c93550621d39f95c838175.pdf)
-  
-### January 10th: 80's Deep Learning (or: Deep Learning Then and Now)
-  - [Hochreiter, Sepp and Jürgen Schmidhuber. "Long Short-Term Memory"](https://pdfs.semanticscholar.org/744d/cb85b8a36a7cf6b382ba100965de717ebe91.pdf)
-    - Original LSTM Paper, only the first 11 pages should be relevant, so you're
-      not required to read beyond that
-    - [This blog post (by Christopher Olah)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-      is great for understanding how recurrent neural nets (RNNs) and LSTMs
-      work, would highly recommend reading!
-  - [Cho, Kyunghyun et al. "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation"](https://pdfs.semanticscholar.org/e2ce/a79e832e0fe999efba16fd621f84cd322371.pdf)
-    - Introduces a modern variant of the LSTM called the Gated Recurrent Unit
-      (GRU)
-  - [Lecun, Yann et al. "Gradient-based Learning Applied to Document Recognition."](https://pdfs.semanticscholar.org/d1cf/aea6c9b1d42aa823137bb33cea3d01c6536e.pdf)
-    - Original Convolutional Neural network paper beyond theory - only the first
-      12-15 pages should be relevant, so you're not required to read beyond
-      that.
-    - [This blog post (by Andrej Karpathy)](http://karpathy.github.io/2015/10/25/selfie/)
-      is great for getting an intuition on convolutional neural networks.
-  - [Krizhevsky, Alex et al. "ImageNet Classification with Deep Convolutional Neural Networks."](https://pdfs.semanticscholar.org/2315/fc6c2c0c4abd2443e26a26e7bb86df8e24cc.pdf)
-    - Seminal paper on classifying images with deep learning, generally agreed
-      to be the paper that kickstarted the modern deep learning era
-  - [extra credit paper if you're interested: Józefowicz, Rafal et al. "An Empirical Exploration of Recurrent Network Architectures."](https://pdfs.semanticscholar.org/324f/c9c732116fa81624faad07524039f193cede.pdf)
-  - [Entertaining (?) article about Jürgen Schmidhuber's thoughts on his lack of recognition in modern deep learning, with commentary by Yann LeCun and others.](http://www.nytimes.com/2016/11/27/technology/artificial-intelligence-pioneer-jurgen-schmidhuber-overlooked.html)
-  
-### January 17th: DNNs as Data Structures
-  - [Dyer, Chris et al. “Transition-Based Dependency Parsing with Stack Long Short-Term Memory.” ACL (2015).](https://pdfs.semanticscholar.org/aa8d/3cb91d00aa7e981d9686e07c99505aba4fd8.pdf)
-    - "StackLSTM", might require some knowledge of how shift-reduce parsing works.
-  - [Tai, Kai Sheng et al. “Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.” ACL (2015).](https://pdfs.semanticscholar.org/b251/b79996e475d22dd7081387c435e67e087043.pdf)
-    - "TreeLSTM"
-    
-### January 25th: Deep Computer Vision Tricks
-  - [He, Kaiming et al. "Deep Residual Learning for Image Recognition."](https://pdfs.semanticscholar.org/c30d/63fe81f4ef461277ed69c4f1ac61d1d8c817.pdf)
-    - "ResNets"
-  - [Ioffe, Sergey and Christian Szegedy. "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://pdfs.semanticscholar.org/298e/77753a499c28a2220dc5924f55f8a6468be5.pdf)
-  - [Bonus (very) cool paper: Zoph, Barret and Quoc V. Le. "Neural Architecture Search with Reinforcement Learning."](https://www.semanticscholar.org/paper/Neural-Architecture-Search-with-Reinforcement-Zoph-Le/cc75a5324180677866c19d0429ae3f8f5a568ed6)
-  
-### January 31st: Distant Supervision
-  - [Owens, Andrew et al. "Ambient Sound Provides Supervision for Visual Learning"](https://arxiv.org/pdf/1608.07017v2.pdf)
-  - [Iyyer et al. "Feuding Families and Former Friends: Unsupervised Learning for Dynamic Fictional Relationships."](https://cs.umd.edu/~miyyer/pubs/2016_naacl_relationships.pdf)
-
-### February 7th: Grab Bag
-  - [Zhang et al, "Understanding deep learning requires rethinking generalization"](https://arxiv.org/pdf/1611.03530v1.pdf)
-  - [Blei and Lafferty, "Dynamic Topic Models"](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2036&context=compsci)
-
-### February 21st: Natural Language Generation
-  - [Kiddon, Chloé et al. "Mise en Place: Unsupervised Interpretation of Instructional Recipes."](https://pdfs.semanticscholar.org/9b50/f93252d9e16f83e0accd91b7157bb7f59210.pdf)
-  - [Fang, Hao et al. "From Captions to Visual Concepts and Back."](https://pdfs.semanticscholar.org/15f1/02c3c9f4d4fe6ba105e221df48c6e8902b3b.pdf)
-
-### February 28th: Adversarial Training / GANs
-  - [Yang, Zhilin et al. "Semi-Supervised QA with Generative Domain-Adaptive Nets."](https://www.semanticscholar.org/paper/Semi-Supervised-QA-with-Generative-Domain-Adaptive-Yang-Hu/4b43edc2eddf1928c8661d9c437b13dfc7fdfdbb)
-  - [Arjovsky, Martín et al. "Wasserstein GAN."](https://www.semanticscholar.org/paper/Wasserstein-GAN-Arjovsky-Chintala/51616663767d2a28fa02c439d0c9dc9e51ec6acf)
-
-## Resources
-
-Resources to come soon!
-
-## Notes
-
-Notes to come soon!
+### March 30th: Neural Architecture Search for Translation
+  - [D. Britz, A. Goldie, M.T. Luong, Q. Le, "Massive Exploration of Neural Machine Translation Architectures"](https://arxiv.org/abs/1703.03906)
