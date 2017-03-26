@@ -22,7 +22,7 @@ people with a solid probability and mathematics background, however.
 
 | Week | Date | Time | Place | Summary of Contents |
 |------|------|------|-------|---------------------|
-| 1 | Mar 30 | 5:30 PM | CSE 503 | [Neural Architectures for Translation](#march_30th_neural_architecture_search_for_translation) |
+| 1 | Mar 30 | 5:30 PM | CSE 503 | [Neural Architectures for Translation](#march-30th-neural-architecture-search-for-translation) |
 | 2 | Apr 6 | 5:30 PM | CSE 503 | - |
 | 3 | Apr 13 | 5:30 PM | CSE 503 | - |
 | 4 | Apr 20 | 5:30 PM | CSE 503 | - |
