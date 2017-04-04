@@ -18,7 +18,7 @@ learning, especially recent deep learning methods that are generally expressed a
 tensor and matrix operations. Thus, we'll try to tie in relevant elements from machine 
 learning.
 
-**We're planning on meeting at 5:30 PM on Tuesdays, generally in CSE503**
+**We're planning on meeting at 5:30 PM on Tuesdays, generally in CSE303**
 
 ## Suggested Prerequisites 
 We'd like for participants to have already taken MATH308, and just want a deeper 
