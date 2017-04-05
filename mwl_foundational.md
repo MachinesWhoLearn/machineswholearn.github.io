@@ -31,7 +31,7 @@ you should be fine as long as you've taken calculus.
 |------|------|------|-------|---------------------|
 | 1 | Mar 28 | 5:30 PM | CSE 303 | Skipped |
 | 2 | Apr 4 | 5:30 PM | CSE 303 | Chapter 1 |
-| 3 | Apr 11 | 5:30 PM | CSE 303 |**1A**:3,8,16 **1B**:5 **1C**:3,23,24; Chapter 2|
+| 3 | Apr 11 | 5:30 PM | CSE 303 |**1A**: 3, 8, 16 **1B**: 5 **1C**: 3, 23, 24; Chapter 2|
 | 4 | Apr 18 | 5:30 PM | CSE 303 | - |
 | 5 | Apr 25 | 5:30 PM | CSE 303 | - |
 | 6 | May 2 | 5:30 PM | CSE 303 | - |
