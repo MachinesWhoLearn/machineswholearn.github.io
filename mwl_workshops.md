@@ -23,7 +23,7 @@ for some more info.
 
 **We're planning on meeting for an hour on Mondays at 5:30 PM**
 
-## Winter Quarter 2017 (Tentative) Schedule
+## Spring Quarter 2017 (Tentative) Schedule
 
 | Week | Date | Time | Place | Summary of Contents |
 |------|------|------|-------|---------------------|
