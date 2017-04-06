@@ -28,7 +28,7 @@ for some more info.
 | Week | Date | Time | Place | Summary of Contents |
 |------|------|------|-------|---------------------|
 | 1 | Mar 27 | 5:30 PM | CSE 503 | Skipped |
-| 2 | Apr 3 | 5:30 PM | CSE 503 | - |
+| 2 | Apr 3 | 5:30 PM | CSE 503 | [Intro to Keras and Deep Learning for NLP](https://github.com/MachinesWhoLearn/lectures/tree/master/2016-2017.Meetings/spring/01.keras_tutorial_duplicate_questions) |
 | 3 | Apr 10 | 5:30 PM | CSE 503 | - |
 | 4 | Apr 17 | 5:30 PM | CSE 503 | - |
 | 5 | Apr 24 | 5:30 PM | CSE 503 | - |
