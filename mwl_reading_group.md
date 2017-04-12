@@ -24,7 +24,7 @@ people with a solid probability and mathematics background, however.
 |------|------|------|-------|---------------------|
 | 1 | Mar 30 | 5:30 PM | CSE 503 | [Neural Architectures for Translation](#march-30th-neural-architecture-search-for-translation) |
 | 2 | Apr 6 | 5:30 PM | CSE 503 | [Deep Reinforcement Learning](#april-6th-deep-reinforcement-learning)|
-| 3 | Apr 13 | 5:30 PM | CSE 503 | - |
+| 3 | Apr 13 | 5:30 PM | CSE 503 | [Representation Learning](#april-13th-representation-learning) |
 | 4 | Apr 20 | 5:30 PM | CSE 503 | - |
 | 5 | Apr 27 | 5:30 PM | CSE 503 | - |
 | 6 | May 4 | 5:30 PM | CSE 503 | - |
@@ -42,3 +42,7 @@ people with a solid probability and mathematics background, however.
   - [Narasimhan et al. Language Understanding for Text-based Games using Deep Reinforcement Learning](https://pdfs.semanticscholar.org/b91c/3ab29457123cb1cc590a3e5dcec8a7f70a12.pdf?_ga=1.26568893.1484215306.1475848983)
   - [Wang et al. Dueling Network Architectures for Deep Reinforcement Learning](https://pdfs.semanticscholar.org/4c05/d7caa357148f0bbd61720bdd35f0bc05eb81.pdf?_ga=1.25112506.1484215306.1475848983)
   - [Bonus blog post by Andrej Karpathy on RL](http://karpathy.github.io/2016/05/31/rl/)
+  
+### April 13th: Representation Learning
+  - [Zhu et al. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
+  - [Bowman and Vilnis - Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf)
