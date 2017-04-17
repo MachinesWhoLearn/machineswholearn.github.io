@@ -25,7 +25,7 @@ people with a solid probability and mathematics background, however.
 | 1 | Mar 30 | 5:30 PM | CSE 503 | [Neural Architectures for Translation](#march-30th-neural-architecture-search-for-translation) |
 | 2 | Apr 6 | 5:30 PM | CSE 503 | [Deep Reinforcement Learning](#april-6th-deep-reinforcement-learning)|
 | 3 | Apr 13 | 5:30 PM | CSE 503 | [Representation Learning](#april-13th-representation-learning) |
-| 4 | Apr 20 | 5:30 PM | CSE 503 | - |
+| 4 | Apr 20 | 5:30 PM | CSE 503 | [Natural Language Inference](#april-20th-natural-language-inference) |
 | 5 | Apr 27 | 5:30 PM | CSE 503 | - |
 | 6 | May 4 | 5:30 PM | CSE 503 | - |
 | 7 | May 11 | 5:30 PM | CSE 503 | - |
@@ -46,3 +46,7 @@ people with a solid probability and mathematics background, however.
 ### April 13th: Representation Learning
   - [Zhu et al. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
   - [Bowman and Vilnis - Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf)
+  
+### April 20th: Natural Language Inference
+  - [Munkhdalai and Yu - Neural Semantic Encoders](https://arxiv.org/pdf/1607.04315.pdf)
+  - [Chen et al - Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference](https://arxiv.org/pdf/1609.06038v2.pdf)
