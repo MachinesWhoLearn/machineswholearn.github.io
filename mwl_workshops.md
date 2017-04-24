@@ -31,7 +31,7 @@ for some more info.
 | 2 | Apr 3 | 5:30 PM | CSE 503 | [Intro to Keras and Deep Learning for NLP](https://github.com/MachinesWhoLearn/lectures/tree/master/2016-2017.Meetings/spring/01.keras_tutorial_duplicate_questions) |
 | 3 | Apr 10 | 5:30 PM | CSE 503 | Backprop in detail |
 | 4 | Apr 17 | 5:30 PM | CSE 503 | Data Hack Night <sup>[What is this?](#data-hack-nights)</sup> |
-| 5 | Apr 24 | 5:30 PM | CSE 503 | - |
+| 5 | Apr 24 | 5:30 PM | CSE 503 | [NumPy](https://github.com/MachinesWhoLearn/lectures/blob/master/2016-2017.Meetings/spring/04.numpy_exercises.md) |
 | 6 | May 1 | 5:30 PM | CSE 503 | - |
 | 7 | May 8 | 5:30 PM | CSE 503 | - |
 | 8 | May 15 | 5:30 PM | CSE 503 | - |
