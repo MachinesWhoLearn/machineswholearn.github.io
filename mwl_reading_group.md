@@ -26,7 +26,7 @@ people with a solid probability and mathematics background, however.
 | 2 | Apr 6 | 5:30 PM | CSE 503 | [Deep Reinforcement Learning](#april-6th-deep-reinforcement-learning)|
 | 3 | Apr 13 | 5:30 PM | CSE 503 | [Representation Learning](#april-13th-representation-learning) |
 | 4 | Apr 20 | 5:30 PM | CSE 503 | [Natural Language Inference](#april-20th-natural-language-inference) |
-| 5 | Apr 27 | 5:30 PM | CSE 503 | - |
+| 5 | Apr 27 | 5:30 PM | CSE 503 | [Structural RNN for Video](#april-27th-structural-rnn-for-video) |
 | 6 | May 4 | 5:30 PM | CSE 503 | - |
 | 7 | May 11 | 5:30 PM | CSE 503 | - |
 | 8 | May 18 | 5:30 PM | CSE 503 | - |
@@ -50,3 +50,6 @@ people with a solid probability and mathematics background, however.
 ### April 20th: Natural Language Inference
   - [Munkhdalai and Yu - Neural Semantic Encoders](https://arxiv.org/pdf/1607.04315.pdf)
   - [Chen et al - Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference](https://arxiv.org/pdf/1609.06038v2.pdf)
+
+### April 27th: Structural RNN for Video
+  - [Structural-RNN: Deep Learning on Spatio-Temporal Graphs](https://arxiv.org/pdf/1511.05298.pdf)
