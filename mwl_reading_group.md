@@ -45,11 +45,11 @@ people with a solid probability and mathematics background, however.
   
 ### April 13th: Representation Learning
   - [Zhu et al. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
-  - [Bowman and Vilnis - Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf)
+  - [Bowman and Vilnis et al. - Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf)
   
 ### April 20th: Natural Language Inference
   - [Munkhdalai and Yu - Neural Semantic Encoders](https://arxiv.org/pdf/1607.04315.pdf)
-  - [Chen et al - Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference](https://arxiv.org/pdf/1609.06038v2.pdf)
+  - [Chen et al. - Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference](https://arxiv.org/pdf/1609.06038v2.pdf)
 
 ### April 27th: Structural RNN for Video
-  - [Structural-RNN: Deep Learning on Spatio-Temporal Graphs](https://arxiv.org/pdf/1511.05298.pdf)
+  - [Jain et al. - Structural-RNN: Deep Learning on Spatio-Temporal Graphs](https://arxiv.org/pdf/1511.05298.pdf)
