@@ -27,7 +27,7 @@ people with a solid probability and mathematics background, however.
 | 3 | Apr 13 | 5:30 PM | CSE 503 | [Representation Learning](#april-13th-representation-learning) |
 | 4 | Apr 20 | 5:30 PM | CSE 503 | [Natural Language Inference](#april-20th-natural-language-inference) |
 | 5 | Apr 27 | 5:30 PM | CSE 503 | [Structural RNN for Video](#april-27th-structural-rnn-for-video) |
-| 6 | May 4 | 5:30 PM | CSE 503 | - |
+| 6 | May 4 | 5:30 PM | CSE 503 | [AlphaGo](#may-4th-alphago) |
 | 7 | May 11 | 5:30 PM | CSE 503 | - |
 | 8 | May 18 | 5:30 PM | CSE 503 | - |
 | 9 | May 25 | 5:30 PM | CSE 503 | - |
@@ -53,3 +53,7 @@ people with a solid probability and mathematics background, however.
 
 ### April 27th: Structural RNN for Video
   - [Jain et al. - Structural-RNN: Deep Learning on Spatio-Temporal Graphs](https://arxiv.org/pdf/1511.05298.pdf)
+  
+### May 4th: AlphaGo
+  - [Silver et al. - Mastering the game of Go with deep neural networks and tree search](https://pdfs.semanticscholar.org/9dc0/4bd6a2489ae94f660ff16ecc37fb383a58fc.pdf?_ga=2.166777598.1155844225.1493818596-1484215306.1475848983)
+
