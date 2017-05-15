@@ -34,7 +34,7 @@ for some more info.
 | 5 | Apr 24 | 5:30 PM | CSE 503 | [NumPy](https://github.com/MachinesWhoLearn/lectures/blob/master/2016-2017.Meetings/spring/04.numpy_exercises.md) |
 | 6 | May 1 | 5:30 PM | CSE 503 | GANs |
 | 7 | May 8 | 5:30 PM | CSE 503 | [TensorFlow](https://github.com/MachinesWhoLearn/lectures/tree/master/2016-2017.Meetings/spring/07.tensorflow_intro) |
-| 8 | May 15 | 5:30 PM | CSE 503 | - |
+| 8 | May 15 | 5:30 PM | CSE 503 | Structuring Tensorflow Models |
 | 9 | May 22 | 5:30 PM | CSE 503 | - |
 | 10 | May 29 | 5:30 PM | CSE 503 | - |
 
