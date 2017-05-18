@@ -29,7 +29,7 @@ people with a solid probability and mathematics background, however.
 | 5 | Apr 27 | 5:30 PM | CSE 503 | [Structural RNN for Video](#april-27th-structural-rnn-for-video) |
 | 6 | May 4 | 5:30 PM | CSE 503 | [AlphaGo](#may-4th-alphago) |
 | 7 | May 11 | 5:30 PM | CSE 503 | [SafetyNet](#may-11th-safetynet) |
-| 8 | May 18 | 5:30 PM | CSE 503 | - |
+| 8 | May 18 | 5:30 PM | CSE 503 | [Exploration](#may-18th-exploration) |
 | 9 | May 25 | 5:30 PM | CSE 503 | - |
 | 10 | June 1 | 5:30 PM | CSE 503 | - |
 
@@ -59,3 +59,6 @@ people with a solid probability and mathematics background, however.
 
 ### May 11th: SafetyNet
   - [Lu et al. - SafetyNet: Detecting and Rejecting Adversarial Examples Robustly](https://arxiv.org/abs/1704.00103)
+  
+### May 18th: Exploration
+  - [Pathak et al. - Curiosity-driven Exploration by Self-supervised Prediction](https://pathak22.github.io/noreward-rl/resources/icml17.pdf)
