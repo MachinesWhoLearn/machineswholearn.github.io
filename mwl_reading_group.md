@@ -62,3 +62,6 @@ people with a solid probability and mathematics background, however.
   
 ### May 18th: Exploration
   - [Pathak et al. - Curiosity-driven Exploration by Self-supervised Prediction](https://pathak22.github.io/noreward-rl/resources/icml17.pdf)
+
+### May 25th: Visual Dialog
+  - [Das et al. - Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585)
