@@ -30,7 +30,7 @@ people with a solid probability and mathematics background, however.
 | 6 | May 4 | 5:30 PM | CSE 503 | [AlphaGo](#may-4th-alphago) |
 | 7 | May 11 | 5:30 PM | CSE 503 | [SafetyNet](#may-11th-safetynet) |
 | 8 | May 18 | 5:30 PM | CSE 503 | [Exploration](#may-18th-exploration) |
-| 9 | May 25 | 5:30 PM | CSE 503 | - |
+| 9 | May 25 | 5:30 PM | CSE 503 | Cancelled |
 | 10 | June 1 | 5:30 PM | CSE 503 | - |
 
 ## What We're Reading
@@ -62,6 +62,3 @@ people with a solid probability and mathematics background, however.
   
 ### May 18th: Exploration
   - [Pathak et al. - Curiosity-driven Exploration by Self-supervised Prediction](https://pathak22.github.io/noreward-rl/resources/icml17.pdf)
-
-### May 25th: Visual Dialog
-  - [Das et al. - Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/abs/1703.06585)
