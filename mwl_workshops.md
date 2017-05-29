@@ -36,7 +36,7 @@ for some more info.
 | 7 | May 8 | 5:30 PM | CSE 503 | [TensorFlow](https://github.com/MachinesWhoLearn/lectures/tree/master/2016-2017.Meetings/spring/07.tensorflow_intro) |
 | 8 | May 15 | 5:30 PM | CSE 503 | Structuring Tensorflow Models |
 | 9 | May 22 | 5:30 PM | CSE 503 | RNNs for Music |
-| 10 | May 29 | 5:30 PM | CSE 503 | - |
+| 10 | May 29 | 5:30 PM | CSE 503 | Skipped, Dead Week |
 
 ### Data Hack Nights
 While lecture / workshop-based talks are a great way to get an introduction to a new subject, the fastest way to become proficient is to actually use it! Many of us agree that we've learned the most about data science / machine learning from personal projects and generally hacking on data-related things in our free time. In an effort to encourage this sort of experiental, independent learning, we'll be holding "Data Hack Nights", where anyone is free to come, hang out, and work on a data science / machine learning related project. We'll be around to help you out if you get stuck, and we're happy to chat if you are having trouble figuring out what to do / getting started.
