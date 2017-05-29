@@ -31,7 +31,7 @@ people with a solid probability and mathematics background, however.
 | 7 | May 11 | 5:30 PM | CSE 503 | [SafetyNet](#may-11th-safetynet) |
 | 8 | May 18 | 5:30 PM | CSE 503 | [Exploration](#may-18th-exploration) |
 | 9 | May 25 | 5:30 PM | CSE 503 | Cancelled |
-| 10 | June 1 | 5:30 PM | CSE 503 | - |
+| 10 | June 1 | 5:30 PM | CSE 503 | Skipped, Dead Week |
 
 ## What We're Reading
 
