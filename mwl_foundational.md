@@ -37,5 +37,5 @@ you should be fine as long as you've taken calculus.
 | 6 | May 2 | 5:30 PM | CSE 303 | **3A**: 1, 14 **2B**: 2, 11 **2C**: 4, 15  |
 | 7 | May 9 | 5:30 PM | CSE 303 | Chapter 4 |
 | 8 | May 16 | 5:30 PM | CSE 303 | Skipped |
-| 9 | May 23 | 5:30 PM | CSE 303 | - |
-| 10 | May 30 | 5:30 PM | CSE 303 | - |
+| 9 | May 23 | 5:30 PM | CSE 303 | Chapter 5 |
+| 10 | May 30 | 5:30 PM | CSE 303 | Skipped, Dead Week |
