@@ -3,7 +3,8 @@ layout: page
 title: Welcome
 ---
 
-![image]({{ site.baseurl }}assets/img/logo.png){:height="48px" width="48px"}
+![image]({{ "/assets/img/logo.png" | relative_url }}){:height="48px" width="48px"}
+
 
 Machines Who Learn is a student-led, for-students interest group for all things
 machine learning, artificial intelligence, or data science related. Our goal is
