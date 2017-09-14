@@ -9,12 +9,11 @@ permalink:        pretty
 title:            Machines Who Learn
 tagline:          "A ML / AI / Data Science Student Organization at UW"
 description:      "We're a ML / AI / Data Science student organization at the University of Washington."
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://machineswholearn.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Nelson Liu'
+  url:            https://homes.cs.washington.edu/~nfliu/
 
 paginate:         5
 
