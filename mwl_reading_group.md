@@ -11,7 +11,7 @@ or two people assigned to lead a discussion about the readings.
 
 | Week | Date | Time | Place | Paper |
 |------|------|------|-------|-------|
-|    1 | TBD  | TBD  | TBD   | Robin Jia and Percy Liang. 2017. Adversarial Examples for Evaluating Reading Comprehension Systems. [pdf](https://www.semanticscholar.org/paper/Adversarial-Examples-for-Evaluating-Reading-Compre-Jia-Liang/1e845782ffd510efea1a031e5a9ed7b28d23d662) |
+|    1 | TBD  | TBD  | TBD   | Robin Jia and Percy Liang. 2017. **Adversarial Examples for Evaluating Reading Comprehension Systems**. [[pdf]](https://www.semanticscholar.org/paper/Adversarial-Examples-for-Evaluating-Reading-Compre-Jia-Liang/1e845782ffd510efea1a031e5a9ed7b28d23d662) |
 |    2 | TBD  | TBD  | TBD   |                     |
 |    3 | TBD  | TBD  | TBD   |                     |
 |    4 | TBD  | TBD  | TBD   |                     |
