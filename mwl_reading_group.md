@@ -15,7 +15,7 @@ or two people assigned to lead a discussion about the readings.
 |------|------|------|-------|-------|
 |    1 | 9/28 | 6:00 PM | Allen Research Commons Red C | Robin Jia and Percy Liang. 2017. **Adversarial Examples for Evaluating Reading Comprehension Systems**. [[pdf]](https://www.semanticscholar.org/paper/Adversarial-Examples-for-Evaluating-Reading-Compre-Jia-Liang/1e845782ffd510efea1a031e5a9ed7b28d23d662) |
 |    2 | 10/5 | 6:30 PM | Foster Library - Study Room #1 | Joel Lehman and Kenneth O. Stanley. 2015. **Abandoning Objectives: Evolution Through the Search for Novelty Alone**. [[pdf]](https://www.semanticscholar.org/paper/Abandoning-Objectives-Evolution-Through-the-Search-Lehman-Stanley/44a7d9492c30bfa57f69efa6f0fbbe39da666752) <br> This is a long paper, we'll focus on sections 2.4-6.3.|
-|    3 | 10/12 | 6:00 PM | Allen Research Commons Red C |                     |
+|    3 | 10/12 | 6:00 PM | Allen Research Commons Red C | Himalaya Jain, Joaquin Zepeda, Patrick Pérez, and Rémi Gribonval. 2017. **SUBIC: A supervised, structured binary code for image search**. [[pdf]](https://www.semanticscholar.org/paper/SUBIC-A-supervised-structured-binary-code-for-imag-Jain-Zepeda/6598630bec131a1da9a8fb6cd6b17a1f8bbd48a9) |
 |    4 | 10/19 | TBD | TBD |                     |
 |    5 | 10/26 | TBD | TBD |                     |
 |    6 | 11/2 | TBD | TBD |                     |
