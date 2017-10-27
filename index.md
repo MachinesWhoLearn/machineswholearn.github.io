@@ -11,8 +11,6 @@ machine learning, artificial intelligence, or data science related. Our goal is
 to support a tight-knit community of students interested in data by providing
 them with a space to come together.
 
-*Content is forthcoming for 2017-2018*
-
 If you're interested in joining us, feel free to come to any of our events
 above and join our [mailing list](https://groups.google.com/forum/#!forum/machines-who-learn/join) or
 [Facebook group](https://www.facebook.com/groups/MachinesWhoLearn) to stay up to
