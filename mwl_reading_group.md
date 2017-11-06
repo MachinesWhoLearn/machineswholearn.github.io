@@ -20,7 +20,7 @@ or two people assigned to lead a discussion about the readings.
 |    5 | 10/26 | 6:00 PM | Allen Research Commons Red C | David Silver et al. 2017. **Mastering the game of Go without human knowledge.** [[pdf]](https://www.nature.com/nature/journal/v550/n7676/full/nature24270.html) <br> Email mwluw@uw.edu if paper is paywalled|
 |    6 | 11/2 | 6:00 PM | Allen Research Commons Red C | Peter Brown et al. 1992. **Class-Based n-gram Models of Natural Language** [[pdf]](https://www.semanticscholar.org/paper/Class-Based-n-gram-Models-of-Natural-Language-Brown-Pietra/783480acff435bfbc15ffcdb4f15eccddaa0c810)|
 |    7 | 11/9 | 6:00 PM | Allen Research Commons Red C |  Marc Lanctot et al. 2017. **A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning** [[pdf]](https://arxiv.org/abs/1711.00832) |
-|    8 | 11/16 | TBD | TBD |                     |
+|    8 | 11/16 | 6:00 PM | **Suzzallo 335** | Note temporary location change! |
 |    9 | 11/23 | TBD | TBD |                     |
 |   10 | 11/30 | TBD | TBD |                     |
 
