@@ -3,4 +3,7 @@ layout: page
 title: MWL Workshops
 ---
 
-**Content is forthcoming for 2017-2018**
+| Meeting | Date | Time | Place | Project |
+|------|------|------|-------|-------|
+|    1 | 11/3 | 5:00 PM | Allen Research Commons Red A | Web Scraping [[code]](https://github.com/Kristjansson/ScrapingTutorial) |
+|    2 | 11/15 | 5:00 PM | TBD | High Performance Computing |
