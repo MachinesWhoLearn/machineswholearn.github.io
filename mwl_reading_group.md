@@ -21,8 +21,8 @@ or two people assigned to lead a discussion about the readings.
 |    6 | 11/2 | 6:00 PM | Allen Research Commons Red C | Peter Brown et al. 1992. **Class-Based n-gram Models of Natural Language** [[pdf]](https://www.semanticscholar.org/paper/Class-Based-n-gram-Models-of-Natural-Language-Brown-Pietra/783480acff435bfbc15ffcdb4f15eccddaa0c810)|
 |    7 | 11/9 | 6:00 PM | Allen Research Commons Red C |  Marc Lanctot et al. 2017. **A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning** [[pdf]](https://arxiv.org/abs/1711.00832) |
 |    8 | 11/16 | 6:00 PM | **Suzzallo 335** | Note temporary location change! Gábor Melis et al. 2017. **On the State of the Art of Evaluation in Neural Language Models** [[pdf]](https://arxiv.org/abs/1707.05589) |
-|    9 | 11/23 | TBD | TBD |                     |
-|   10 | 11/30 | TBD | TBD |                     |
+|    9 | 11/23 | Holiday | Holiday |                     |
+|   10 | 11/30 | 6:00 PM | Allen Research Commons Red C | Sara Sabour et al. 2017. **Dynamic Routing Between Capsules** [[pdf]](https://arxiv.org/abs/1710.09829) <br> [Video explanation endorsed by Hinton](https://www.youtube.com/watch?v=pPN8d0E3900)<br> Blog post that attempt to break it down: [The Morning Paper](https://blog.acolyer.org/2017/11/13/dynamic-routing-between-capsules/) <br> Nice visualization of the architecture: [Mike Ross](https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737) |
 
 ## Subscribe to our calendar
 
