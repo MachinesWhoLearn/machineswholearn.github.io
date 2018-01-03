@@ -7,7 +7,7 @@ We're reading research papers about various topics in machine learning and
 artificial intelligence. Meetings will be informal, reading-group style with one
 or two people assigned to lead a discussion about the readings.
 
-**We're meeting on TBD, fill out this [when2meet](https://www.when2meet.com/?6555907-71PgX) during Winter Quarter.**
+**We're meeting on (TBD, fill out this [when2meet](https://www.when2meet.com/?6555907-71PgX)) during Winter Quarter.**
 
 ## Winter Quarter 2017 (Tentative) Schedule
 | Week | Date | Time | Place | Paper |
