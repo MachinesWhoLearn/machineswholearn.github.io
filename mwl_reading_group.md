@@ -7,21 +7,21 @@ We're reading research papers about various topics in machine learning and
 artificial intelligence. Meetings will be informal, reading-group style with one
 or two people assigned to lead a discussion about the readings.
 
-**We're meeting on Thursdays at 5:00 PM during Winter Quarter.**
+**We're meeting on Fridays at 5:00 PM during Winter Quarter.**
 
 ## Winter Quarter 2018 (Tentative) Schedule
 
 | Week | Date | Time | Place | Paper |
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | 1/11 | 5:00 PM | EEB 025 | [Tim Kraska et al. "The Case for Learned Index Structures" (2017).](https://www.semanticscholar.org/paper/The-Case-for-Learned-Index-Structures-Kraska-Beutel/64a418a61bc7e427fd33980764759db646e48ceb) <br> This is a long paper, we'll focus on sections 3 and 4 |
-| 2 | 1/18 | 5:00 PM | Allen Research Commons Red C |  |
-| 3 | 1/25 | 5:00 PM |  |  |
-| 4 | 2/1 | 5:00 PM |  |  |
-| 5 | 2/8 | 5:00 PM |  |  |
-| 6 | 2/15 | 5:00 PM |  |  |
-| 7 | 2/22 | 5:00 PM |  |  |
-| 8 | 3/1 | 5:00 PM |  |  |
-| 9 | 3/8 | 5:00 PM |  |  |
+| 2 | 1/19 | 5:00 PM | Allen Research Commons Red C |  |
+| 3 | 1/26 | 5:00 PM |  |  |
+| 4 | 2/2 | 5:00 PM |  |  |
+| 5 | 2/9 | 5:00 PM |  |  |
+| 6 | 2/16 | 5:00 PM |  |  |
+| 7 | 2/23 | 5:00 PM |  |  |
+| 8 | 3/2 | 5:00 PM |  |  |
+| 9 | 3/9 | 5:00 PM |  |  |
 
 
 ## Subscribe to our calendar
