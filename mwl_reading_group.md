@@ -14,7 +14,7 @@ or two people assigned to lead a discussion about the readings.
 | Week | Date | Time | Place | Paper |
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | 1/11 | 5:00 PM | EEB 025 | [Tim Kraska et al. "The Case for Learned Index Structures" (2017).](https://www.semanticscholar.org/paper/The-Case-for-Learned-Index-Structures-Kraska-Beutel/64a418a61bc7e427fd33980764759db646e48ceb) <br> This is a long paper, we'll focus on sections 3 and 4 |
-| 2 | 1/19 | 5:00 PM | Allen Research Commons Red C |  |
+| 2 | 1/19 | 5:00 PM | Allen Research Commons Red C | [Jangwon Lee. "A survey of robot learning from demonstrations for Human-Robot Collaboration" (2017).](https://arxiv.org/abs/1710.08789) |
 | 3 | 1/26 | 5:00 PM |  |  |
 | 4 | 2/2 | 5:00 PM |  |  |
 | 5 | 2/9 | 5:00 PM |  |  |
