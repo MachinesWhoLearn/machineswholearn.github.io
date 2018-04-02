@@ -13,7 +13,7 @@ or two people assigned to lead a discussion about the readings.
 
 | Week | Date | Time | Place | Paper |
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | 4/3 | 3:30 PM | Foster 007 | [Tommaso Dreossi et al. "Systematic Testing of Convolutional Neural Networks for Autonomous Driving" (2017).](https://arxiv.org/pdf/1708.03309.pdf) |
+| 1 | 4/3 | 3:30 PM | Foster Study Room 7 | [Tommaso Dreossi et al. "Systematic Testing of Convolutional Neural Networks for Autonomous Driving" (2017).](https://arxiv.org/abs/1708.03309) |
 | 2 | 4/10 | 3:30 PM | Suzzallo 338 |  |
 | 3 | 4/17 | 3:30 PM | TBD |  | 
 | 4 | 4/24 | 3:30 PM | TBD |  |
