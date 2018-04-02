@@ -7,21 +7,21 @@ We're reading research papers about various topics in machine learning and
 artificial intelligence. Meetings will be informal, reading-group style with one
 or two people assigned to lead a discussion about the readings.
 
-**We're meeting on Fridays at 5:00 PM during Winter Quarter.**
+**We're meeting on Tuesdays at 3:30 PM during Spring Quarter.**
 
-## Winter Quarter 2018 (Tentative) Schedule
+## Spring Quarter 2018 (Tentative) Schedule
 
 | Week | Date | Time | Place | Paper |
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | 1/11 | 5:00 PM | EEB 025 | [Tim Kraska et al. "The Case for Learned Index Structures" (2017).](https://www.semanticscholar.org/paper/The-Case-for-Learned-Index-Structures-Kraska-Beutel/64a418a61bc7e427fd33980764759db646e48ceb) <br> This is a long paper, we'll focus on sections 3 and 4 |
-| 2 | 1/19 | 5:00 PM | Allen Research Commons Red C | [Jangwon Lee. "A survey of robot learning from demonstrations for Human-Robot Collaboration" (2017).](https://arxiv.org/abs/1710.08789) |
-| 3 | 1/26 | 5:00 PM | Allen Research Commons Red C | [Richard Zhang et al. "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric" (2018).](https://arxiv.org/abs/1801.03924v1) |
-| 4 | 2/2 | 5:00 PM | Allen Research Commons Red C | [Ingmar Kanitscheider et al. "Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems" (2016).](https://arxiv.org/abs/1609.09059) |
-| 5 | 2/9 | 5:00 PM | Allen Research Commons Red C | [Zhilin Yang et al. "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model" (2018).](https://openreview.net/forum?id=HkwZSG-CZ) <br> Nice [blog post about it](http://smerity.com/articles/2017/mixture_of_softmaxes.html) |
-| 6 | 2/16 | 5:00 PM | Allen Research Commons Red C | [Jake Snell et al. "Prototypical Networks for Few-shot Learning" (2017).](https://arxiv.org/abs/1703.05175) |
-| 7 | 2/23 | 5:00 PM | Allen Research Commons Red C | [Tal Linzen et al. "Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies" (2016).](https://arxiv.org/abs/1611.01368) |
-| 8 | 3/2 | 5:00 PM | Allen Research Commons Red C | [David Rumelhart et al. "Learning representations by back-propagating errors" (1986).](https://www.nature.com/articles/323533a0) |
-| 9 | 3/9 | 5:00 PM | Cancelled, dead week. |  |
+| 1 | 4/3 | 3:30 PM | Foster 007 | [Tommaso Dreossi et al. "Systematic Testing of Convolutional Neural Networks for Autonomous Driving" (2017).](https://arxiv.org/pdf/1708.03309.pdf) |
+| 2 | 4/10 | 3:30 PM | Suzzallo 338 |  |
+| 3 | 4/17 | 3:30 PM | TBD |  | 
+| 4 | 4/24 | 3:30 PM | TBD |  |
+| 5 | 5/1 | 3:30 PM | TBD |  |
+| 6 | 5/8 | 3:30 PM | TBD |  |
+| 7 | 5/15 | 3:30 PM | TBD |  |
+| 8 | 5/22 | 3:30 PM | TBD |  |
+| 9 | 5/29 | 3:30 PM | TBD |  |
 
 
 ## Subscribe to our calendar
