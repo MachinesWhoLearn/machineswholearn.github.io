@@ -20,7 +20,7 @@ or two people assigned to lead a discussion about the readings.
 | 5 | 5/1 | 3:30 PM | Allen Research Commons <b>Red A</b> | [Ian Goodfellow et al. "Generative Adversarial Networks" (2014).](https://arxiv.org/abs/1406.2661) |
 | 6 | 5/8 | 3:30 PM | Allen Research Commons Red C | [Alec Radford et al. "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks" (2015).](https://arxiv.org/abs/1511.06434) |
 | 7 | 5/15 | 3:30 PM | <b>Odegaard 318</b> | [Hancock et al. "Training Classifiers with Natural Language Explanations" (2018).](https://arxiv.org/abs/1805.03818) |
-| 8 | 5/22 | 3:30 PM | TBD |  |
+| 8 | 5/22 | 3:30 PM | Allen Research Commons <b>Red A</b> | [Aravind Rajeswaran et al. "Towards Generalization and Simplicity in Continuous Control" (2017).](https://arxiv.org/abs/1703.02660) |
 | 9 | 5/29 | 3:30 PM | TBD |  |
 
 
