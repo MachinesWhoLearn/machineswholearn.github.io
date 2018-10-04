@@ -9,7 +9,7 @@ or two people assigned to lead a discussion about the readings.
 
 **We're meeting on Fridays at 5:00 PM during Fall Quarter.**
 
-## Spring Quarter 2018 (Tentative) Schedule
+## Fall Quarter 2018 Schedule
 
 | Week | Date | Time | Place | Paper |
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
