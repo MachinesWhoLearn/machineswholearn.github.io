@@ -17,3 +17,4 @@ or two people assigned to lead a discussion about the readings.
 | 2 | 10/12 | 5:00 PM | Allen Research Commons Red A | [Lydia T. Liu et al. "Delayed Impact of Fair Machine Learning" (2018)](http://proceedings.mlr.press/v80/liu18c/liu18c.pdf) <br> [Blog Post by Authors](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) |
 | 3 | 10/19 | 5:00 PM | Allen Research Commons Red A | [Jacob Devlin et al. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" (2018)](https://arxiv.org/abs/1810.04805)|
 | 4 | 10/26 | 5:00 PM | Allen Research Commons Red A | [Amir Zamir et al. "Taskonomy: Disentangling Task Transfer Learning" (2018)](https://arxiv.org/abs/1804.08328)|
+| 5 | 11/2 | 5:00 PM | Allen Research Commons Red C | [Anonymous authors (blind review) "Plan Online, Learn Offline: Efficient Learning and Exploration via Model-Based Control" (2018)](https://openreview.net/pdf?id=Byey7n05FQ)|
