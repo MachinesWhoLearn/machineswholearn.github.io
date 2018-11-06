@@ -18,3 +18,4 @@ or two people assigned to lead a discussion about the readings.
 | 3 | 10/19 | 5:00 PM | Allen Research Commons Red A | [Jacob Devlin et al. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" (2018)](https://arxiv.org/abs/1810.04805)|
 | 4 | 10/26 | 5:00 PM | Allen Research Commons Red A | [Amir Zamir et al. "Taskonomy: Disentangling Task Transfer Learning" (2018)](https://arxiv.org/abs/1804.08328)|
 | 5 | 11/2 | 5:00 PM | Allen Research Commons Red C | [Anonymous authors (blind review) "Plan Online, Learn Offline: Efficient Learning and Exploration via Model-Based Control" (2018)](https://openreview.net/pdf?id=Byey7n05FQ)|
+| 6 | 11/9 | 5:00 PM | Allen Research Commons Red A | [Su Lin Blodgett and Brendan O'Connor "Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English" (2017)](https://arxiv.org/abs/1707.00061)|
