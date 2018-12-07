@@ -21,4 +21,6 @@ or two people assigned to lead a discussion about the readings.
 | 6 | 11/9 | 5:00 PM | Allen Research Commons Red A | [Su Lin Blodgett and Brendan O'Connor "Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English" (2017)](https://arxiv.org/abs/1707.00061)|
 | 7 | 11/16 | N/A | No Meeting | N/A |
 | 8 | 11/23 | N/A | No Meeting; Happy Thanksgiving | N/A |
-| 6 | 11/30 | 5:00 PM | Allen Research Commons Green D | [Emma Strubell et al. "Linguistically-Informed Self-Attention for Semantic Role Labeling" (2018)](https://arxiv.org/abs/1804.08199)|
+| 9 | 11/30 | 5:00 PM | Allen Research Commons Green D | [Emma Strubell et al. "Linguistically-Informed Self-Attention for Semantic Role Labeling" (2018)](https://arxiv.org/abs/1804.08199)|
+| 10 | 12/6 | N/A | No Meeting | N/A |
+| 1 | 12/13 | N/A | No Meeting | N/A |
