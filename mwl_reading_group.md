@@ -9,7 +9,7 @@ or two people assigned to lead a discussion about the readings.
 
 **We're meeting on Thursdays at 5:00 PM during Fall Quarter.**
 
-## Winter Quarter 2018 Schedule
+## Winter Quarter 2019 Schedule
 
 | Week | Date | Time | Place | Paper |
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
