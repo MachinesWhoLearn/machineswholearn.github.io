@@ -15,3 +15,4 @@ or two people assigned to lead a discussion about the readings.
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | 1/10 | 5:00 PM | Allen Research Commons Green D | [Marc Peter Deisenroth and Carl Edward Rasmussen. "PILCO: A Model-Based and Data-Efficient Approach to Policy Search" (2011)](http://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf) |
 | 2 | 1/17 | 5:00 PM | Allen Research Commons Red A | [Ricky T. Q. Chen et al. "Neural Ordinary Differential Equations" (2018)](https://arxiv.org/abs/1806.07366)|
+| 3 | 1/24 | 5:00 PM | Allen Research Commons Red A | [Cynthia Rudin. "Please Stop Explaining Black Box Models for High Stakes Decisions" (2018](https://arxiv.org/abs/1811.10154)
