@@ -17,4 +17,4 @@ or two people assigned to lead a discussion about the readings.
 | 2 | 1/17 | 5:00 PM | Allen Research Commons Red A | [Ricky T. Q. Chen et al. "Neural Ordinary Differential Equations" (2018)](https://arxiv.org/abs/1806.07366) |
 | 3 | 1/24 | 5:00 PM | Allen Research Commons Red A | [Cynthia Rudin. "Please Stop Explaining Black Box Models for High Stakes Decisions" (2018](https://arxiv.org/abs/1811.10154) |
 | 4 | 1/31 | 5:00 PM | Allen Research Commons Red A | [Yujia Bao et al. "Deriving Machine Attention from Human Rationales" (2018)](https://arxiv.org/abs/1808.09367) |
-| 5 | 2/07 | 5:00 PM | TBD | [John Schulman et al. "Motion planning with sequential convex optimization and convex collision checking" (2014)](https://people.eecs.berkeley.edu/~pabbeel/papers/2014-IJRR-trajopt.pdf) |
+| 5 | 2/07 | 5:00 PM | Allen Research Commons Red A | [John Schulman et al. "Motion planning with sequential convex optimization and convex collision checking" (2014)](https://people.eecs.berkeley.edu/~pabbeel/papers/2014-IJRR-trajopt.pdf) |
