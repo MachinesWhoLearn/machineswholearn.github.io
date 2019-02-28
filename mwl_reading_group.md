@@ -20,4 +20,4 @@ or two people assigned to lead a discussion about the readings.
 | 5 | 2/07 | 5:00 PM | Allen Research Commons Red A | [John Schulman et al. "Motion planning with sequential convex optimization and convex collision checking" (2014)](https://people.eecs.berkeley.edu/~pabbeel/papers/2014-IJRR-trajopt.pdf) |
 | 6 | 2/14 | - | - | No meeting |
 | 7 | 2/21 | 5:00 PM | Allen Research Commons Red A | [Michael Bloesch et al. "CodeSLAM - Learning a Compact, Optimisable Representation for Dense Visual SLAM" (2018)](https://arxiv.org/abs/1804.00874) |
-| 8 | 2/28 | - | - | No Meeting |
+| 8 | 2/28 | - | - | No Meeting (IROS deadline) |
