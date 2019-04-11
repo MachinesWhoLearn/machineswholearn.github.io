@@ -13,4 +13,4 @@ or two people assigned to lead a discussion about the readings.
 
 | Week | Date | Time | Place | Paper |
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | 4/11 | 5:00 PM | TBD | [Saxton et. al. "Analysing Mathematical Reasoning Abilities of Neural Models" (2019)](https://arxiv.org/pdf/1904.01557v1.pdf) |
+| 1 | 4/11 | 5:00 PM | Gates 152 | [Saxton et. al. "Analysing Mathematical Reasoning Abilities of Neural Models" (2019)](https://arxiv.org/pdf/1904.01557v1.pdf) |
