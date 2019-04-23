@@ -15,3 +15,4 @@ or two people assigned to lead a discussion about the readings.
 |------|------|---------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | 4/11 | 5:00 PM | Gates 152 | [Saxton et. al. "Analysing Mathematical Reasoning Abilities of Neural Models" (2019)](https://arxiv.org/pdf/1904.01557v1.pdf) |
 | 2 | 4/18 | 5:00 PM | Gates 152 | [Moryossef et. al. "Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation" (2019)](https://arxiv.org/pdf/1904.03396.pdf) |
+| 3 | 4/25 | 5:00 PM | Gates 152 | [Todorov "Linearly-solvable Markov decision problems" (2006)](https://homes.cs.washington.edu/~todorov/papers/TodorovNIPS06.pdf) |
