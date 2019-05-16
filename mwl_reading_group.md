@@ -17,4 +17,5 @@ or two people assigned to lead a discussion about the readings.
 | 2 | 4/18 | 5:00 PM | Gates 152 | [Moryossef et. al. "Step-by-Step: Separating Planning from Realization in Neural Data-to-Text Generation" (2019)](https://arxiv.org/pdf/1904.03396.pdf) |
 | 3 | 4/25 | 5:00 PM | Gates 152 | [Todorov "Linearly-solvable Markov decision problems" (2006)](https://homes.cs.washington.edu/~todorov/papers/TodorovNIPS06.pdf) |
 | 4 | 5/2 | 5:00 PM | Gates 152 | [Frankle, Carbin "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks" (2019)](https://arxiv.org/abs/1803.03635) |
-| 5 | 5/7 | 5:00 PM | Gates 152 | [Wang et. al. "Learning Robust Representations by Projecting Superficial Statistics Out" (2019)](https://openreview.net/forum?id=rJEjjoR9K7) |
+| 5 | 5/9 | 5:00 PM | Gates 152 | [Wang et. al. "Learning Robust Representations by Projecting Superficial Statistics Out" (2019)](https://openreview.net/forum?id=rJEjjoR9K7) |
+| 6 | 5/16 | 5:00 PM | Gates 152 | [Zhou et. al. "Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask" (2019)](https://arxiv.org/abs/1905.01067) |
