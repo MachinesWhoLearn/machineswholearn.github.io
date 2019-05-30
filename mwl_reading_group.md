@@ -20,3 +20,5 @@ or two people assigned to lead a discussion about the readings.
 | 5 | 5/9 | 5:00 PM | Gates 152 | [Wang et. al. "Learning Robust Representations by Projecting Superficial Statistics Out" (2019)](https://openreview.net/forum?id=rJEjjoR9K7) |
 | 6 | 5/16 | 5:00 PM | Gates 152 | [Zhou et. al. "Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask" (2019)](https://arxiv.org/abs/1905.01067) |
 | 7 | 5/23 | 5:00 PM | Gates 152 | [Sablayrolles et. al. "Spreading vectors for similarity search" (2019)](https://openreview.net/forum?id=SkGuG2R5tm) |
+| 8 | 5/30 | 5:00 PM | Gates 152 | [McMahan et. al. "Communication-Efficient Learning of Deep Networks from Decentralized Data" (2017)](https://arxiv.org/abs/1602.05629) |
+
